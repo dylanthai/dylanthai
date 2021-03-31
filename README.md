@@ -1,0 +1,5 @@
+- 👋 Hi, my name is Dylan Thai
+- 👀 I’m interested in mathematics and programming
+- 🌱 I’m currently studying at the University of Waterloo's Mathematics Program
+- 📫 How to reach me: Email: d8htai@uwaterloo.ca
+- You can also contact me through Linkedin: www.linkedin.com/in/dylan-thai
