@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Dylan Thai
-- 👀 I’m interested in mathematics and programming
+- 👀 I’m interested in statistics, mathematics, and education
 - 🌱 I’m currently studying Statistics at the University of Waterloo
 - 📫 How to reach me: Email: d8thai@uwaterloo.ca
 - You can also contact me through Linkedin: www.linkedin.com/in/dylan-thai
